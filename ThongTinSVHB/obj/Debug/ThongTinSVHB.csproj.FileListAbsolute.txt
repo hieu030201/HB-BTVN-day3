@@ -1,0 +1,8 @@
+D:\HB-Academy\Baitap\BaiTapBuoi3\ThongTinSVHB\bin\Debug\ThongTinSVHB.exe.config
+D:\HB-Academy\Baitap\BaiTapBuoi3\ThongTinSVHB\bin\Debug\ThongTinSVHB.exe
+D:\HB-Academy\Baitap\BaiTapBuoi3\ThongTinSVHB\bin\Debug\ThongTinSVHB.pdb
+D:\HB-Academy\Baitap\BaiTapBuoi3\ThongTinSVHB\obj\Debug\ThongTinSVHB.csproj.AssemblyReference.cache
+D:\HB-Academy\Baitap\BaiTapBuoi3\ThongTinSVHB\obj\Debug\ThongTinSVHB.csproj.SuggestedBindingRedirects.cache
+D:\HB-Academy\Baitap\BaiTapBuoi3\ThongTinSVHB\obj\Debug\ThongTinSVHB.csproj.CoreCompileInputs.cache
+D:\HB-Academy\Baitap\BaiTapBuoi3\ThongTinSVHB\obj\Debug\ThongTinSVHB.exe
+D:\HB-Academy\Baitap\BaiTapBuoi3\ThongTinSVHB\obj\Debug\ThongTinSVHB.pdb
